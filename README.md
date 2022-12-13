@@ -3,9 +3,7 @@
 # Laboratório de Programação
 
 funcionalidades do programa:
--criar um vetor dinâmico de tamanho n definido;
--adiciona valores de modo odenado ao vetor;
--removerá o menor entre eles. 
+-criar uma Heap e adicona elemntos (numeros) à ela
 
       para fazer download da pasta antes de compilar em seu dispositivo use o seguinte código no terminal: "git clone https://github.com/oihenry/TR12_535511.git"
 
